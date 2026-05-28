@@ -21,11 +21,10 @@
 title: Eilan Chai
 email: hello@eilan.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Finance and data professional with strong cross-functional 
-  skills and a knack for tech-speak translation.
+  Finance and data professional with a knack for tech-speak translation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eilan.org" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  eilanchai
+github_username: eilanchai
 
 # Build settings
 theme: minima
